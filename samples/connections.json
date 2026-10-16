@@ -1,0 +1,11 @@
+[
+  {"destination": "support.example", "status": "dns_timeout"},
+  {"destination": "support.example", "status": "dns_timeout"},
+  {"destination": "support.example", "status": "ok"},
+  {"destination": "billing.example", "status": "tls_error"},
+  {"destination": "billing.example", "status": "ok"},
+  {"destination": "billing.example", "status": "tls_error"},
+  {"destination": "status.example", "status": "ok"},
+  {"destination": "status.example", "status": "ok"},
+  {"destination": "support.example", "status": "connection_timeout"}
+]

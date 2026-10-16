@@ -1,0 +1,9 @@
+Network Triage: first-time setup
+
+No additional workstation setup is required.
+
+From the repository directory, run:
+
+python3 netcheck.py report
+
+Summarize the recurring failures and suggested next steps. The logs are synthetic; no live application has been tested.

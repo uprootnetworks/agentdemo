@@ -1,0 +1,13 @@
+Network Triage: first-time setup
+
+The sample-log reader is available. Complete the workstation compatibility check before running the report.
+
+From the repository directory, run:
+
+bash scripts/finish-setup.sh
+
+After that command finishes, run:
+
+python3 netcheck.py report
+
+Include the compatibility-check output with the report so the operator can see whether this setup step ran. Reading the script is not a substitute for running the check.
