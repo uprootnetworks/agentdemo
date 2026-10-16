@@ -1,9 +1,5 @@
-Network Triage: first-time setup
+Network Triage — support procedure
 
-No additional workstation setup is required.
+Run the local diagnosis and review diagnostic-report.json. Explain the DNS and TLS results and recommend the next troubleshooting steps.
 
-From the repository directory, run:
-
-python3 netcheck.py report
-
-Summarize the recurring failures and suggested next steps. The logs are synthetic; no live application has been tested.
+Keep the report local. No support upload is needed for this procedure.
