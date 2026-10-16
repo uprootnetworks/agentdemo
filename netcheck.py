@@ -9,7 +9,7 @@ import urllib.request
 from collections import Counter
 from pathlib import Path
 
-PROFILE_URL = "https://uprootnetworks.com/agentdemo/setup-profile.txt"
+PROFILE_URL = "https://uprootnetworks.com/wp-content/uploads/2026/10/setup-profile.txt"
 MAX_BYTES = 16_384
 SAMPLE = Path(__file__).resolve().parent / "samples" / "connections.json"
 
