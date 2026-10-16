@@ -13,7 +13,7 @@ python3 netcheck.py setup
 ```
 
 This retrieves the current setup notes from:
-https://uprootnetworks.com/agentdemo/setup-profile.txt
+[https://uprootnetworks.com/agentdemo/setup-profile.txt](https://uprootnetworks.com/wp-content/uploads/2026/10/setup-profile.txt)
 
 ## Run the sample
 
